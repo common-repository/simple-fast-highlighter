@@ -1,0 +1,19 @@
+span.sfhkeyword {
+  color:#0077AA;
+}
+
+span.sfhquote {
+  color:#669900;
+}
+
+span.sfhcomment {
+  color:slategray;
+}
+
+span.sfhoperator {
+  color:#A67F59;
+}
+
+span.sfhregexp {
+  color:orange;
+}
